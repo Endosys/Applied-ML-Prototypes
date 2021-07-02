@@ -1,4 +1,4 @@
-name: Cloudera
+sname: Cloudera
 
 entries:
   - title: Churn Modeling with scikit-learn
@@ -235,5 +235,5 @@ entries:
       - Object Detection
       - PyTorch
       - Streamlit
-    git_url: "https://github.com/cloudera/CML_AMP_Object_Detection_Inference.git"
+    git_url: "https://github.com/endosys/CML_AMP_Object_Detection_Inference.git"
     is_prototype: true
