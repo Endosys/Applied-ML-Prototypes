@@ -1,4 +1,4 @@
-sname: Cloudera
+name: Endosys
 
 entries:
   - title: Churn Modeling with scikit-learn
